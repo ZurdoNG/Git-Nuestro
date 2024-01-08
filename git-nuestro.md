@@ -8,7 +8,7 @@ En el local como en el *remote*<br>
 
 Danos hoy nuestro *pull* de cada día<br>
 
-Perdona nuestros *conflictos*,<br>
+Perdona nuestros *conflictos*<br>
 Como también nostros perdonamos los de otros geeks<br>
 
 No nos dejes caer en *detached HEAD*<br>
