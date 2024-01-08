@@ -1,4 +1,6 @@
-# Git nuestro
+# Oración a Git Padre todo poderoso
+
+## Git nuestro
 
 *Git* nuestro que estas en los repos,<br>
 Comprimidos sean tus *commits*<br>
