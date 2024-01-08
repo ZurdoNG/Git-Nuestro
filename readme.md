@@ -4,7 +4,7 @@
 
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
-    ~ Para el paso 11 utilize el comando 
+    ~ Para el paso 11 utilicé el comando 
     `git reset --hard 5134fa7` siendo "5134fa7" el id del commit. Para ello antes realicé un `git reflog` para sacar el Id del commit. 
     Realicé esto ya que se pedía deshacer el último commit perdiendo los cambios realizados en el working copy y este comando me permite volver l comit que se requiere y descartar los cambios en un mismo paso. 
     También podría haberlo hecho en 2 pasos haciendo `git reset HEAD~1` y luego `git restore git-nuestro.md`.
